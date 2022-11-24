@@ -10,4 +10,6 @@ git hup için olusturuyorum
 erdogan boyraz bugün hava cok soguk
 0123456789 124
 master branch 
+bu gün için actım ali branch ilk deneme
+
 
