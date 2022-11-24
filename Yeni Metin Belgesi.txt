@@ -3,3 +3,4 @@ ikinci kez yapıyorum
 ücüncü kısa yol icin yaptım
 restore komutu için aciyorum
 branch icin acilmistir
+masterdayım deneme
