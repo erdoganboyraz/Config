@@ -6,3 +6,4 @@ branch icin acilmistir
 masterdayım deneme
  master ile branch icin acilmistir
 yeter artık bana bu yetti
+git hup için olusturuyorum
